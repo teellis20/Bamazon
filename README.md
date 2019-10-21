@@ -25,4 +25,6 @@ __Or to add a new item to the total store inventory.
 ![](add_new.gif)
 
 
-The technologies used are MySQL and Node.js.
+## Technologies Used
+* MySQL
+* Node.js
