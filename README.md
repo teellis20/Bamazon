@@ -12,15 +12,15 @@ __They can choose to viewa all the current inventory,__
 
 ![](view_all.gif)
 
-__To view only products with stock lower than 5 items, 
+__To view only products with stock lower than 5 items,__
 
 ![](view_low.gif)
 
-__To restock any item listed,
+__To restock any item listed,__
 
 ![](restock.gif)
 
-__Or to add a new item to the total store inventory. 
+__Or to add a new item to the total store inventory.__
 
 ![](add_new.gif)
 
