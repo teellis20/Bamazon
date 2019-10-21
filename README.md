@@ -1,4 +1,4 @@
-#Bamazon
+# Bamazon
 
 A play on Amazon.com, __Bamazon__ is an app that allows a user to be either a consumer or a manager. 
 
